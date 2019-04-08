@@ -1,5 +1,4 @@
-# hello-world
-hello
-github
-git
-testing edit
+# Salon Management System
+
+partial source code for Salon Management System
+
